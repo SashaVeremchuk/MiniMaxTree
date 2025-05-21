@@ -1,0 +1,49 @@
+C:\Users\Настя\Desktop\3_laba\bin\Debug\3_laba.exe.config
+C:\Users\Настя\Desktop\3_laba\bin\Debug\3_laba.exe
+C:\Users\Настя\Desktop\3_laba\bin\Debug\3_laba.pdb
+C:\Users\Настя\Desktop\3_laba\obj\Debug\3_laba.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\3_laba\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\3_laba\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\3_laba\obj\Debug\3_laba_MarkupCompile.cache
+C:\Users\Настя\Desktop\3_laba\obj\Debug\3_laba_MarkupCompile.lref
+C:\Users\Настя\Desktop\3_laba\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\3_laba\obj\Debug\3_laba.g.resources
+C:\Users\Настя\Desktop\3_laba\obj\Debug\_3_laba.Properties.Resources.resources
+C:\Users\Настя\Desktop\3_laba\obj\Debug\3_laba.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\3_laba\obj\Debug\3_laba.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\3_laba\obj\Debug\3_laba.exe
+C:\Users\Настя\Desktop\3_laba\obj\Debug\3_laba.pdb
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\3_laba.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\3_laba_MarkupCompile.cache
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\3_laba_MarkupCompile.lref
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\3_laba.g.resources
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\3_laba.pdb
+C:\Users\Настя\Desktop\3_laba — копия\bin\Debug\3_laba.exe.config
+C:\Users\Настя\Desktop\3_laba — копия\bin\Debug\3_laba.exe
+C:\Users\Настя\Desktop\3_laba — копия\bin\Debug\3_laba.pdb
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\_3_laba.Properties.Resources.resources
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\3_laba.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\3_laba.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\3_laba.exe
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\Window1.g.cs
+C:\Users\Настя\Desktop\3_laba — копия\obj\Debug\Window1.baml
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\bin\Debug\3_laba.exe.config
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\bin\Debug\3_laba.exe
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\bin\Debug\3_laba.pdb
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\3_laba.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\Window1.g.cs
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\App.g.cs
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\3_laba_MarkupCompile.cache
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\3_laba_MarkupCompile.lref
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\Window1.baml
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\3_laba.g.resources
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\_3_laba.Properties.Resources.resources
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\3_laba.csproj.GenerateResource.cache
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\3_laba.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\3_laba.exe
+C:\Users\User\Desktop\3 курс\Представление знаний в ИС\3_лаба\3_laba — копия\3_laba — копия\obj\Debug\3_laba.pdb
